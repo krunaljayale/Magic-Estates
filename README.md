@@ -1,8 +1,8 @@
-# 🏡 Inspire Estates
+# 🏡 Magic Estates
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-FF424D?style=for-the-badge&logo=render&logoColor=white)](https://inspire-estates-tfjk.onrender.com/)
 
-**Inspire Estates** is a full-stack web application inspired by Airbnb. It allows users to list properties (estates), view details, upload images, post reviews, and make bookings.
+**Magic Estates** is a full-stack web application inspired by Airbnb. It allows users to list properties (estates), view details, upload images, post reviews, and make bookings.
 
 The project is built using the **MVC (Model-View-Controller)** architecture with **Node.js**, **Express**, and **EJS** for server-side rendering.
 
